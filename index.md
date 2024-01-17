@@ -1,3 +1,8 @@
+# Yuhan Zeng's First CS193 Homework
+- Some funny jokes during the class
+- Useful tools for programming
+- CS193 only have 1 lecture per week
+  
 ## Welcome to GitHub Pages
 #### *Hello World*
 
